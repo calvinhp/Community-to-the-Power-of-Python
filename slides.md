@@ -29,7 +29,7 @@ theme: IndyPy, 0
 
 ---
 
-![](20170411_203033.jpg)
+![](20170411_204850.jpg)
 
 ---
 
@@ -59,11 +59,19 @@ theme: IndyPy, 0
 
 ---
 
+![](20170411_203033.jpg)
+
+---
+
 ![right 25%](DSC02672.jpg)
 
 # Tips
 
 * **Consistency**
+
+---
+
+![fit](Image 4-16-18 at 10.42 AM.jpg)
 
 ---
 
@@ -119,16 +127,6 @@ theme: IndyPy, 0
 * Booths at Local Conferences
 * Community Sponsorship of Events
 
----
-
-![left](DSC02681.jpg)
-
-### **11** Years
-### **1,262** Members
-### **139+** Events
-### **11** Sponsors
-### **60+** Attendees on Average
-### **1,000s** of :pizza:
 
 ---
 
@@ -150,10 +148,6 @@ theme: IndyPy, 0
 
 ---
 
-![autoplay mute](https://www.youtube.com/watch?v=_EnN-rqL4k4&t=149s)
-
----
-
 ![left](IMG_0941.JPG)
 
 # Where we are now
@@ -166,7 +160,44 @@ theme: IndyPy, 0
 
 ---
 
-![fit](Image 4-16-18 at 10.42 AM.jpg)
+# [fit] PBJ:tm:
+
+![left](IMG_1067.JPG)
+
+---
+
+# [fit] Right Brain:tm:
+
+---
+
+![autoplay mute](https://www.youtube.com/watch?v=_EnN-rqL4k4&t=149s)
+
+---
+
+# Pro Talk:tm:
+
+![right](IMG_1075.JPG)
+
+---
+
+# [fit] Pythology
+
+---
+
+![right](Image 4-16-18 at 10.48 AM \(1\).jpg)
+
+# [fit] Results
+
+---
+
+![left](DSC02681.jpg)
+
+### **11** Years
+### **1,262** Members
+### **139+** Events
+### **11** Sponsors
+### **60+** Attendees on Average
+### **1,000s** of :pizza:
 
 ---
 
